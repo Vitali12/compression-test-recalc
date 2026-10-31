@@ -9,7 +9,7 @@ series of specimens it computes stress, corrected displacements, stiffness
 indicators and Young's modulus, shows summary statistics, and exports an Excel
 report and charts.
 
-![Example output charts](examples/example_charts.png)
+![Example output charts](Nigroz-4_общие_графики)
 
 ## What it does
 
