@@ -9,7 +9,7 @@ series of specimens it computes stress, corrected displacements, stiffness
 indicators and Young's modulus, shows summary statistics, and exports an Excel
 report and charts.
 
-The program's algorithm is described in detail in the preprind article: Kolesnikov G.N., Shekov V.A., Zacharov N.A "Method for neutralizing the effect of loading system compliance during compression tests using mixed additive-multiplicative correction"
+The program's algorithm is described in detail in the preprint article: Kolesnikov G.N., Shekov V.A., Zacharov N.A "Method for neutralizing the effect of loading system compliance during compression tests using mixed additive-multiplicative correction"
 
 
 ![Example output charts](examples/Nigroz-4_общие_графики.png)
