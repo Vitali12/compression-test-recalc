@@ -10,6 +10,7 @@
 статистику и экспортирует отчёт в Excel и графики.
 
 Алгоритм программы детально описан в препринте статьи Kolesnikov G.N., Shekov V.A., Zacharov N.A "Method for neutralizing the effect of loading system compliance during compression tests using mixed additive-multiplicative correction"
+https://doi.org/10.20944/preprints202610.1344.v1
 
 ![Пример графиков](examples/Nigroz-4_общие_графики.png)
 
